@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Food-Recipes-React-JS/static/css/main.bc06bab6.css",
+    "main.js": "/Food-Recipes-React-JS/static/js/main.539b4c25.js",
+    "static/js/787.9d75dd08.chunk.js": "/Food-Recipes-React-JS/static/js/787.9d75dd08.chunk.js",
+    "index.html": "/Food-Recipes-React-JS/index.html",
+    "main.bc06bab6.css.map": "/Food-Recipes-React-JS/static/css/main.bc06bab6.css.map",
+    "main.539b4c25.js.map": "/Food-Recipes-React-JS/static/js/main.539b4c25.js.map",
+    "787.9d75dd08.chunk.js.map": "/Food-Recipes-React-JS/static/js/787.9d75dd08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc06bab6.css",
+    "static/js/main.539b4c25.js"
+  ]
+}
