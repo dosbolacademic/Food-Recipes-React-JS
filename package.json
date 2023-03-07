@@ -1,4 +1,5 @@
 {
+  "homepage": "http://dosbolacademic.github.io/Food-Recipe-React-App",
   "name": "recipe-appx",
   "version": "0.1.0",
   "private": true,
@@ -19,6 +20,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+    
   },
   "eslintConfig": {
     "extends": [
