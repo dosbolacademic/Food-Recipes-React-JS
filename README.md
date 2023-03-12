@@ -9,7 +9,6 @@ Time spent: **12** hours spent in total
 ## Video Walkthrough
 
 <a href="https://www.loom.com/share/8237ea45f54e47b7b226632e35bc6fc8">
-
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8237ea45f54e47b7b226632e35bc6fc8-with-play.gif">
   </a>
   
