@@ -14,7 +14,10 @@ Time spent: **12** hours spent in total
   
 
 
-## License
+##  License 
+
+https://dosbolacademic.github.io/Food-Recipes-React-JS/
+
 
     Copyright [2023] [Dosbol Aliev]
 
